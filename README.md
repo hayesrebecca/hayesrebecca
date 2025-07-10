@@ -1,10 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Rebecca Hayes (she/they)
+
+### I'm a PhD Candidate at University of Oregon in the Institute of Ecology and Evolution. I study bee gut microbiomes, biogeography, network ecology, community ecology, and data science. I am passionate about applying data science techniques to real-world data and answering important questions that help stakeholders better understand the world around them. From environmental non-profits, to academic organizations, to public transit departments, I've worked with all kinds of stakeholders to make sense of messy data and provide insights into the topics that matter most to them. 
 
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{hayesrebecca}/count.svg" alt="Visitor's Count" />
-</div>
 
 
 <!--
