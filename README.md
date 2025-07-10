@@ -22,7 +22,6 @@ I am passionate about applying data science techniques to real-world data and an
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=hayesrebecca&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="hayesrebecca's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hayesrebecca&theme=transparent&count_private=true&border_radius=10&locale=en" alt="hayesrebecca's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=hayesrebecca&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="hayesrebecca's Most Used Languages" />
 </div>
 
