@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rebecca Hayes (she/they)  
 
-### I'm a PhD Candidate at University of Oregon in the Institute of Ecology and Evolution.  
+### I'm a PhD Researcher at University of Oregon in the Institute of Ecology and Evolution.  
 
 I study bee gut microbiomes, biogeography, network ecology, community ecology, and data science.  
 
